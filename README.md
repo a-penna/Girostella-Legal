@@ -5,7 +5,7 @@
 <div align="center">
 <h1>Girostella – Legal Documentation</h1>
 
-This repository contains the **Privacy Policy** and **Terms of Use* for the *Girostella* iOS game.  
+This repository contains the **Privacy Policy** and **Terms of Use** for the *Girostella* iOS game.  
 All documents are available in five languages and are published through **GitHub Pages**.
 </div>
 
