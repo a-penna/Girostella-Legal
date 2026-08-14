@@ -1,0 +1,9 @@
+title: Girostella – Documentazione legale
+description: Privacy Policy e Termini di utilizzo dell'app Girostella
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-seo-tag
+
+logo: /assets/app-image.png
+show_downloads: false
